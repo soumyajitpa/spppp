@@ -1,0 +1,44 @@
+#submit{
+    height: 20px;
+    width: 40px;
+    color: white;
+    background-color: black;
+   display: inline block;
+}
+#soumya{
+    display: inline-block;
+
+border-radius: 35%;
+border: 3px;
+border-color: black;
+background-color: rgb(174, 0, 255);
+color: rgb(158, 20, 20);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+height: 60px;
+}
+
+   
+
+#box1{
+    text-align: center;
+    display: inline-block;
+    height: 30px;
+    color: rgb(139, 12, 12);
+}
+#me2{
+    text-align: center;
+    display: inline-block;
+    height: 30px;
+    color: rgb(116, 13, 13);
+}
+
+
+#me3{
+    text-align: center;
+    display: inline-block;
+    height: 30px;
+    color: rgb(88, 9, 9);
+}
+body{
+    background-color: rgb(33, 4, 59);
+}
